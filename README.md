@@ -3,4 +3,4 @@ take a look
 
 hello world
 
-just wont to chek how its work 
+just wont to chek how it works 
